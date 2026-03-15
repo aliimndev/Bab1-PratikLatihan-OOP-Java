@@ -7,9 +7,8 @@
 | 2  | Object                   | Object (instance of class)            | Cara membuat object dengan `new`, state berbeda per object                           |
 | 3  | Encapsulation            | Penyembunyian data                    | `private`, getter & setter, validasi data di setter                                  |
 | 4  | Inheritance              | Pewarisan (`extends`)                 | Mewarisi atribut & method, keyword `super`, method overriding sederhana              |
-| 5  | Polymorphism             | Banyak bentuk                         | Method overriding, runtime polymorphism (reference superclass → object subclass)    |
-| 6  | vehicles/                | Study case mini (Rental Kendaraan)    | Kombinasi inheritance + polymorphism + method overriding                            |
-| 7  | perpustakaan/            | Study case terintegrasi               | **Latihan utama Bab 1**: gabungkan semua konsep (class, object, encapsulation, inheritance, polymorphism) |
+| 5  | Polymorphism             | Banyak bentuk                         | Method overriding, runtime polymorphism (reference superclass → object subclass)    |           |
+| 6  | perpustakaan/            | Study case terintegrasi               | **Latihan utama Bab 1**: gabungkan semua konsep (class, object, encapsulation, inheritance, polymorphism) |
 
 ## Cara Menggunakan Modul Ini
 
